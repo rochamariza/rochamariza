@@ -12,3 +12,11 @@
   
   [![My Skills](https://skillicons.dev/icons?i=nodejs,py,react,tailwind,postgres,flask)](https://skillicons.dev)
 </p>
+<p align="left">
+  💌 Contact me if you want to know more: ⤵️
+</p>
+
+<p align="left">
+  <a href="www.linkedin.com/in/mariza-rocha-70a600308" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/mariza-rocha-70a600308" alt="LinkedIn"/></a>
+</p>
