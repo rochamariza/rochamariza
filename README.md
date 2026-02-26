@@ -17,6 +17,6 @@
 </p>
 
 <p align="left">
-  <a href="www.linkedin.com/in/mariza-rocha-70a600308" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/mariza-rocha-70a600308/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 </p>
